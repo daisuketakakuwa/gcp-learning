@@ -1,0 +1,13 @@
+# lib
+node_modules
+
+# build
+build
+build-server
+
+# local dev
+.env
+docker/db
+
+# credentials
+serviceaccount-firebase-admin-sdk*
